@@ -41,8 +41,8 @@ fundingAPI = Funding.FundingAPI(api_key, secret_key, passphrase, False, flag,dom
 
 #地址列表
 addr=[
-'0xaaaaaaaaaaaaaaaaaaa',#派生A1
-'0xnnnnnnnnnnnnnnnnnnnnn,#派生A2
+'0xaaaaaaaaaaaaaaaaaaa',#
+'0xnnnnnnnnnnnnnnnnnnnnn,#
 ]
 
 
